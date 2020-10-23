@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bmicalc.reactapp.io/static/css/main.1879a869.chunk.css",
+    "main.js": "/bmicalc.reactapp.io/static/js/main.7be046a8.chunk.js",
+    "main.js.map": "/bmicalc.reactapp.io/static/js/main.7be046a8.chunk.js.map",
+    "runtime-main.js": "/bmicalc.reactapp.io/static/js/runtime-main.a1191227.js",
+    "runtime-main.js.map": "/bmicalc.reactapp.io/static/js/runtime-main.a1191227.js.map",
+    "static/css/2.65c1222a.chunk.css": "/bmicalc.reactapp.io/static/css/2.65c1222a.chunk.css",
+    "static/js/2.3ae38996.chunk.js": "/bmicalc.reactapp.io/static/js/2.3ae38996.chunk.js",
+    "static/js/2.3ae38996.chunk.js.map": "/bmicalc.reactapp.io/static/js/2.3ae38996.chunk.js.map",
+    "index.html": "/bmicalc.reactapp.io/index.html",
+    "precache-manifest.420532a60fc2fb46aafd9ba8343e6eb0.js": "/bmicalc.reactapp.io/precache-manifest.420532a60fc2fb46aafd9ba8343e6eb0.js",
+    "service-worker.js": "/bmicalc.reactapp.io/service-worker.js",
+    "static/css/2.65c1222a.chunk.css.map": "/bmicalc.reactapp.io/static/css/2.65c1222a.chunk.css.map",
+    "static/css/main.1879a869.chunk.css.map": "/bmicalc.reactapp.io/static/css/main.1879a869.chunk.css.map",
+    "static/js/2.3ae38996.chunk.js.LICENSE.txt": "/bmicalc.reactapp.io/static/js/2.3ae38996.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bmicalc.reactapp.io/static/media/bg_image1.322db651.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1191227.js",
+    "static/css/2.65c1222a.chunk.css",
+    "static/js/2.3ae38996.chunk.js",
+    "static/css/main.1879a869.chunk.css",
+    "static/js/main.7be046a8.chunk.js"
+  ]
+}
